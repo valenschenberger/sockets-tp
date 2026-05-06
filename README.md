@@ -1,11 +1,3 @@
-
-guia_desarrollo_sockets_vscode.md
-
-Página
-1
-/
-1
-100 %
 # Guía de Desarrollo — Programación de Sockets en Python, .NET Core y NodeJS
 
 ## Objetivo de la guía
